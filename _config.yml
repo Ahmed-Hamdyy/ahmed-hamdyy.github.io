@@ -16,7 +16,7 @@ timezone: Africa/Cairo
 
 title: Ahmed Hamdy # the main title
 
-tagline: Welcome To My Personal Blog # it will display as the subtitle
+tagline: Penetration Tester # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A hub for cybersecurity write-ups, CTF solutions, and practical notes on penetration testing and technical challenges.
