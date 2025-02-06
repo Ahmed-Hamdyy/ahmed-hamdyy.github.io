@@ -23,7 +23,7 @@ nc 10.10.112.53 1337
 Then type **OVERFLOW10 test** and then you must get **OVERFLOW10 COMPLETE** now we know that everything is working properly terminate the connection and let's start.
 
 
-## Mona Configuration
+### Mona Configuration
 
 Mona is a script that can be used to automate and speed up specific searches while developing exploits it works on immunity debugger and it is preinstalled on our system we just need to Setting the working folder with this command (run in the command input box at the bottom of the Immunity Debugger window)
 ```
