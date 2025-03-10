@@ -1,6 +1,6 @@
 ---
 title: Mr Robot CTF Writeup || Tryhackme
-date: 2025-2-5 00:00:00 +0800
+date: 2025-3-5 00:00:00 +0800
 categories: [Tryhackme, Offensive Pentesting Path]
 tags: [tryhackme, writeup, walkthrough, web, fuzzing, linux]     # TAG names should always be lowercase
 description: This is a Writeup for Mr Robot CTF Room Which is a part of the offensive pentesting path on Tryhackme
@@ -111,7 +111,7 @@ the -fs will filter the response size so we can get the right username.
 ![img-description](/assets/img/MrRobot/Bruteforcingusernames.png)
 _Bruteforcing Username_
 
-so we have some valid usernames now, we can also try bruteforcing the password for this username.
+so we have a valid username now, we can also try bruteforcing the password for this username.
 
 using **ffuf** again but now change the **FUZZ** word to be in the password field this time and the username field is elliot like this.
 
