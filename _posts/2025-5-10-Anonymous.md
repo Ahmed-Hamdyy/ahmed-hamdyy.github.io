@@ -1,7 +1,7 @@
 ---
 title: Anonymous Writeup || Tryhackme
 date: 2025-5-10 00:00:00 +0800
-categories: [Tryhackme]
+categories: [Tryhackme, Medium Machines]
 tags: [tryhackme, writeup, walkthrough, ftp, smb, script]     # TAG names should always be lowercase
 description: This is a walkthrough for Anonymous room a medium level room on Tryhackme.
 ---
